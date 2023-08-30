@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavSampleApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_view_shared_element_transition_name">nav_view_shared_element_transition_name</string>
+</resources>
